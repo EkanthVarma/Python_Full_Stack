@@ -59,8 +59,6 @@ ex:
         print("F")
 
 '''
-else:
-    print("Consonant")
     
 
 
