@@ -59,22 +59,6 @@ ex:
         print("F")
 
 '''
-
-a = int(input("enter a value"))
-b = int(input("enter b value"))
-c = int(input("enter c value"))
-if a>b and a>c:
-    print( a, "is greater number")
-elif b>a and b>c:
-    print( b, "is greater number")
-else:
-    print( b, "is greater number")
-
-print()
-
-string = input("enter character: ")
-if string in 'aeiouAEIOU':
-    print("Vowel")
 else:
     print("Consonant")
     
