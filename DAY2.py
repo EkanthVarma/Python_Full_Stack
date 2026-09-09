@@ -1,4 +1,3 @@
-
 # BMI (Body Mass Index)
 
 # Formula of BMI - (weight)/((height)**2) , weight-kg , height-m
